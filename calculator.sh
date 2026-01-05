@@ -2,4 +2,4 @@
 
 # This is a file for calculator application
 
-echo "new 1"
+echo "new 1 line"
